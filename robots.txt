@@ -1,0 +1,5 @@
+# Robots : tout le domaine naisora.github.io est ouvert ; le plan du site d'Yggdrasil
+User-agent: *
+Allow: /
+
+Sitemap: https://naisora.github.io/YggdrasilOS/sitemap.xml
